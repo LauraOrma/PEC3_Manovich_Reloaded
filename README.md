@@ -7,3 +7,6 @@ Convivimos con la hibridación de medios todos los días y a todas horas. Por ej
 
 
 ### Caso 1: *Beyond Two Souls* (2013)
+
+![Beyond Two Souls](img/beyond-banner.png)
+
