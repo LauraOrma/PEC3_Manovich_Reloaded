@@ -24,7 +24,8 @@ Por tanto, en la actualidad es complicado encontrar un videojuego que no se nutr
 ### Caso 1: *Beyond Two Souls* (2013)
 
 ![Beyond Two Souls](img/beyond-banner.png)
-
+|   |   |
+| -- | -- |
 | Género | **Aventura Gráfica** |
 | Desarrollador | **Quantic Dream** |
 | Editor | **Quantic Dream** |
