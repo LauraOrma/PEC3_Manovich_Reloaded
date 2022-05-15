@@ -1,12 +1,13 @@
 # PEC3_Manovich_Reloaded
 Visionando el futuro con las gafas de Manovich: redescubriendo la hibridación
 
+Laura Ortega Marín.
+Cultura Digital. Universitat Oberta de Catalunya, 2021/2022
+
 ## Introducción
-La hibridación de medios consiste, según Manovich, en 
+>Convivimos con multitud de ejemplos de híbridos de medios: los encontraremos en las interfaces de usuario, las aplicaciones web, las apps móviles, el diseño visual, >el diseño interactivo, los efectos visuales, los medios locativos, los entornos interactivos, el arte digital y otros ámbitos de la cultura digital. ***Lev Manovich, >El Software toma el mando***
 
-Convivimos con la hibridación de medios todos los días y a todas horas. Por ejemplo, ¿sabías que las plataformas de streaming, como Netflix, surgen de la hibridación de medios? En ellas se fusionan dos grandes medios: la televisión y el cine.
-
-Viendo este ejemplo, podemos entrever la importancia de este fenómeno que da, como resultado, un formato mucho más innovador y que consigue atraer la atención de los consumidores. Así, se puede generar un interés renovado alrededor de cualquier medio ya existente.
+Convivimos con la hibridación de medios todos los días y a todas horas. Por ejemplo, ¿sabías que las plataformas de streaming, como Netflix, surgen de la hibridación de medios? En ellas se fusionan dos grandes medios: la televisión y el cine. Viendo este ejemplo, podemos entrever la importancia de este fenómeno que da como resultado, un formato o lenguaje innovador y que consigue atraer la atención de los consumidores. Así, se puede generar un interés renovado alrededor de cualquier medio ya existente.
 
 Existen numerosos caso de hibridación interesantes y que han tenido resultados más que satisfactorios. Sin embargo, este pequeño estudio se centrará en la hibridación de medios en los formatos culturales y, de forma más específica, en **la hibridación de los videojuegos con otros medios**.
 
