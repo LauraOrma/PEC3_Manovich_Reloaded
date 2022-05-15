@@ -40,11 +40,11 @@ Por tanto, en la actualidad es complicado encontrar un videojuego que no se nutr
 | Fecha de lanzamiento | **17 Octubre 2013** |
 
 
-Sinopsis: Jodie (Elliot Page) tiene una misteriosa conexión con un extraño ente, Aiden, que posee increíbles poderes. Todas las acciones que tomes como jugador mientras se enfrenta a diferentes desafíos y aventuras, determinarán su historia.
+✒️**Sinopsis**: Jodie (Elliot Page) tiene una misteriosa conexión con un extraño ente, Aiden, que posee increíbles poderes. Todas las acciones que tomes como jugador mientras se enfrenta a diferentes desafíos y aventuras, determinarán su historia.
 
 El actor Elliot Page da vida a Jodie, la protaginista de nuestra historia. En este videojuego, se mezcla la interacción del jugador (mediante teclado o mando) que será el que tenga en sus manos el destino de Jodie. Con grandes dosis de CGI e impresionantes gráficos, la inmersión de este videojuego es apabullante.
 
-Haciendo clic sobre la siguiente imagen puedes ver un vídeo de su making off mediante CGI y modelado de imagen en 3D, técnicas que son posibles gracias a diferentes softwares y que son muy utilizados en cine y videojuegos.
+Haciendo clic sobre la siguiente imagen puedes ver un vídeo de su making off con modelado 3D y animación mediante CGI, técnicas que son posibles gracias a diferentes softwares y que son muy utilizados en cine y videojuegos.
 
 ![Video making off Beyond Two Souls](https://img.youtube.com/vi/71m1hnIImNo/0.jpg)
 >En Beyond Two Souls se utilizó CGI para el modelado 3d 
@@ -64,9 +64,6 @@ La interfaz del juego se fusiona con la imagen, creada a través de modelado 3d 
 >el modelado 3d del actor Elliot Page (a través de CGI) y la interfaz 
 >de interacción para los jugadores (toma de decisiones dentro del videojuego).
 
-
-
-Beyond Two Souls es una 
 
 ### Caso 2: *Just Dance* (2009)
 
