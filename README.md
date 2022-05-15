@@ -12,7 +12,7 @@ Existen numerosos caso de hibridación interesantes y que han tenido resultados 
 
 ## Hibridación y videojuegos
 
-Según los últimos informes de DFC Intelligence, [1:]***más de 3 mil millones de personas en todo el mundo juegan a videoojuegos en su tiempo libre.*** Esto supone que un 40% de la población mundial juega a videojuegos. Se dice pronto, ¿verdad? Probablemente los videojuegos tengan mucho más impacto en nuestras vidas de lo que pensamos. Sin ir más lejos, está ampliamente demostrado que la gamificación es una de las herramientas más potentes en el ámbito educativo. Ahora que el software domina el mundo, ¿cómo puede impactar en nuestras vidas una experiencia totalmente digital?
+Según los últimos informes de DFC Intelligence, ***más de 3 mil millones de personas en todo el mundo juegan a videoojuegos en su tiempo libre.***[^1] Esto supone que un 40% de la población mundial juega a videojuegos. Se dice pronto, ¿verdad? Probablemente los videojuegos tengan mucho más impacto en nuestras vidas de lo que pensamos. Sin ir más lejos, está ampliamente demostrado que la gamificación es una de las herramientas más potentes en el ámbito educativo. Ahora que el software domina el mundo, ¿cómo puede impactar en nuestras vidas una experiencia totalmente digital?
 
 Centrándonos en la evolución de los videojuegos, en sus primeros pasos apenas encontrábamos narrativa, sino que estaban realizados de forma muy esquemática. No tenían nada que ver con los videojuegos que se desarrollan actualmente. Por ejemplo, si analizamos el mítico ***PONG*** (Atari, 1972) no tiene ningún tipo de narrativa compleja: hay dos jugadores, representado por líneas verticales, y una pelota, representada por un círculo. La mente humana es capaz de reconocer este esquema y comprender que se está jugando un partido de tenis de forma digital.
 
@@ -48,3 +48,7 @@ Beyond Two Souls es una
 ### Caso 2: *Just Dance* (2009)
 
 
+
+
+
+[^1]: DLPRIVATESERVER. El informe muestra cuántas personas juegan juegos en todo el mundo. [en línea]. *DLPRIVATESERVER*. [consulta: 14/05/2022]. Disponible en: https://dlprivateserver.com/el-informe-muestra-cuantas-personas-juegan-juegos-en-todo-el-mundo-spoiler-hay-muchos/#:~:text=Seg%C3%BAn%20el%20informe%20de%20DFC,m%C3%B3viles%20en%20paralelo%2C%20por%20ejemplo.
