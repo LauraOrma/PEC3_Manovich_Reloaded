@@ -84,15 +84,21 @@ Como jugadora de Beyond Two Souls, este juego marcó un comienzo para mí en el 
 
 *Analizaremos el concepto en el que se basa toda la saga de Just Dance, aunque la ficha técnica se centra en el primer Just Dance que vio la luz.*
 
-Descripción: Just Dance es el videojuego de música más vendido de la historia. Es un juego basado en la danza que proporciona una experiencia de baile accesible y divertida con una premisa de gamificación: cuanto mejor imite el jugador los pasos de baile, más puntos ganará. Tiene opción de multijugador hasta cuatro personas.
+📚**Descripción**: Just Dance es el videojuego de música más vendido de la historia. Es un juego basado en la danza que proporciona una experiencia de baile accesible y divertida con una premisa de gamificación: cuanto mejor imite el jugador los pasos de baile, más puntos ganará. Tiene opción de multijugador hasta cuatro personas.
 
-Los efectos visuales de los últimos juegos de Just Dance son un caso de hibridación en sí: las coreografías mezclan la imagen real con la animación y el diseño gráfico en post producción. Bailarines reales realizan los pasos de baile ante grandes paredes verdes que facilitarán, posteriormente, el proceso de añadir fondos 3d para crear escenarios totalmente increíbles.
+Los efectos visuales de los últimos juegos de Just Dance son un caso de hibridación en sí: las coreografías mezclan la imagen real con la animación y el diseño gráfico en post producción. Bailarines reales realizan los pasos de baile ante grandes paredes verdes que facilitarán, posteriormente, el proceso de añadir fondos 3d para crear escenarios totalmente increíbles. Por otro lado, los rasgos de los bailarines son practicamente imperceptibles, creando así un tipo de imagen más ***cartoon*** y gamberra que le da al videojuego su característico e inconfundible estilo.
 
-Por otro lado, los rasgos de los bailarines son practicamente imperceptibles, creando así un tipo de imagen más ***cartoon*** y gamberra que le da al videojuego su característico e inconfundible estilo.
+Una de las particulares de Just Dance que más llama la atención, es que los mandos son importantes para poder captar e interpretar los movimientos de brazos de los jugadores en la vida real, con precisión. Actualmente, también se pueden utilizar las capturadoras de imagen de algunas consolas para detectar el movimiento de los jugadores y poder compararlo con los movimientos que realizan los bailarines en el juego.
 
-Una de las particulares de Just Dance que más me llama la atención, es que los mandos son esenciales para poder captar e interpretar los movimientos de brazos de los usuarios en la vida real. Actualmente, también se pueden utilizar las capturadoras de imagen de algunas consolas para detectar el móvimiento de los jugadores y poder compararlo con los movimientos que realizan los bailarines en el juego.
+Desde mi punto de vista, en Just Dance se produce una hibridación de medios muy interesante, que fusiona la interacción de los jugadores mediante una interfaz (videojuegos), los movimientos reales capturados por dispositivos inhalambricos pero físicos, la animación fusionada con la imagen real y, por supuesto, la música. Esto converge en un nuevo lenguaje que mezcla el software y los movimientos en tiempo real.
 
-Desde mi punto de vista, en Just Dance se produce una hibridación de medios muy interesante, que fusiona la interacción de los jugadores mediante una interfaz (videojuegos), los movimientos reales capturados por dispositivos inhalambricos pero físicos, la animación fusionada con la imagen real y, por supuesto, la música.
+Just Dance se convierte así en una alternativa con muchas ventajas para los consumidores habituales de videojuegos:
+
+- **Fomenta un estilo de vida saludable**. Existen diversos estudios que tratan sobre la probable relación de los videojuegos con las ***conductas sedentarias en niños, adolescentes y adultos jóvenes***[^3]. El baile es una actividad anaeróbica por lo que gracias a la saga Just Dance los jugadores pueden divertirse bailando a la vez que hacen ejercicio.
+- **Los beneficios de la danza**. La danza es una actividad beneficiosa en la que se ponen en prática muchas zonas diferente del cerebro. Ayuda al desarrollo cerebral, sirve para el desarrollo de la coordinación y para reducir el estrés. Está muy recomendada en cualquier etapa de la vida.
+- **Cooperativo**. Tiene una opción cooperativa presencialmente y en línea, lo que refuerza y potencia las habilidades sociales de los jóvenes adultos.
+
+Podemos observar, con estos puntos, que la saga Just Dance va mucho más allá que una saga de videojuegos. Este nuevo medio supone un nuevo género de videojuegos que combina el arte, la danza(actividad física y cultural), la animación y el diseño gráfico, con el concepto de gamificación y competición.
 
 
 ###Bibliografía, webgrafía y recursos
@@ -102,3 +108,5 @@ Desde mi punto de vista, en Just Dance se produce una hibridación de medios muy
 [^1]: DLPRIVATESERVER. El informe muestra cuántas personas juegan juegos en todo el mundo. [en línea]. *DLPRIVATESERVER*. [consulta: 14/05/2022]. Disponible en: https://dlprivateserver.com/el-informe-muestra-cuantas-personas-juegan-juegos-en-todo-el-mundo-spoiler-hay-muchos/#:~:text=Seg%C3%BAn%20el%20informe%20de%20DFC,m%C3%B3viles%20en%20paralelo%2C%20por%20ejemplo.
 
 [^2]: MANOVICH, Lev. *El Software toma el mando*. Barcelona: Editorial UOC (Edición en Castellano), 2013. ISBN: 978-84-9064-022-7.
+
+[^3]: CASTRO, M., MARTÍNEZ, A., ZURITA, F., CHACÓN, R., ESPEJO, T. y CABRERA, A. *Uso de videojuegos y su relación con las conductas sedentarias en una población escolar y universitaria*. Journal for Educators, Teachers and Trainers, Vol 6(1), pp. 40-51. URL: https://digibug.ugr.es/handle/10481/39372
