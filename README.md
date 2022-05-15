@@ -64,6 +64,8 @@ La interfaz del juego se fusiona con la imagen, creada a través de modelado 3d 
 >el modelado 3d del actor Elliot Page (a través de CGI) y la interfaz 
 >de interacción para los jugadores (toma de decisiones dentro del videojuego).
 
+Como jugadora de Beyond Two Souls, este juego marcó un comienzo para mí en el género de aventura gráfica. Desde mi punto de vista, la aventura gráfica tiene un componente muy importante: la accesibilidad. Hay videojouegos que son bastante complicados y jugarlos requiere de cierta experiencia, estrategia y habilidad. En el caso de las aventuras gráficas, practicamente cualquier jugador (aunque no sea usuario habitual de videojuegos) puede jugar y disfrutar de la aventura sin dificultades extremas añadidas.
+
 
 ### Caso 2: *Just Dance* (2009)
 
