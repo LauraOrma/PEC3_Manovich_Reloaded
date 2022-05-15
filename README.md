@@ -37,11 +37,17 @@ Sinopsis: Jodie (Elliot Page) tiene una misteriosa conexión con un extraño ent
 
 El actor Elliot Page da vida a Jodie, la protaginista de nuestra historia. En este videojuego, se mezcla la interacción del jugador (mediante teclado o mando) que será el que tenga en sus manos el destino de Jodie. Con grandes dosis de CGI e impresionantes gráficos, la inmersión de este videojuego es apabullante.
 
-Haciendo clic sobre la siguiente imagen puedes ver un vídeo de su making off mediante CGI
+Haciendo clic sobre la siguiente imagen puedes ver un vídeo de su making off mediante CGI y modelado de imagen en 3D, técnicas que son posibles gracias a diferentes softwares y que son muy utilizados en cine y videojuegos.
 
 ![Video making off Beyond Two Souls](https://img.youtube.com/vi/71m1hnIImNo/0.jpg)
 
-Beyond Two Souls es, desde mi punto de vista, el ejemplo de perfecto de hibridación entre cine y videojuegos. En él podemos observar una imagen y fotografía propia del más puro cine. De hecho, si abrieras un gameplay en alguna plataforma de streaming (por ejemplo, Youtube) descubrirás que la narrativa es tan sumamente compleja que te parecerá que estás viendo una película de ciencia ficción.
+Beyond Two Souls es, desde mi punto de vista, el ejemplo de perfecto de hibridación entre cine y videojuegos. En él podemos observar una imagen y fotografía propia del más puro cine. De hecho, si abrieras un gameplay en alguna plataforma de streaming (por ejemplo, Youtube) descubrirás que la narrativa es tan sumamente compleja que te parecerá que estás viendo una película de aventura *sci-fy*.
+
+En este punto, citamos a Manovich: ***en los híbridos de medios, las interfaces, técnicas y en última instancia las presuposiciones más básicas de los diversos formatos y tradiciones de medios se unen y dan pie a nuevas gestalts de medios. Es decir, se fusionan para ofrecer una experiencia nueva y coherente, que es distinto a experimentar los elementos uno por uno***[^2]. Aquí Mnovich establecía la diferencia entre la hibridación y la multimedia. Como podemos observar, Beyond Two Souls sigue su línea de pensamientos.
+
+La interfaz del juego se fusiona con la imagen, creada a través de modelado 3d y CGI. A su vez, encontramos un guión y una narrativa compleja. La fusión de estos tres factores concluyen en un lenguaje totalmente nuevo y enriquecedor. Para sustentar estos datos, podemos observar la siguiente captura del propio videojuego:
+
+
 
 Beyond Two Souls es una 
 
@@ -52,3 +58,5 @@ Beyond Two Souls es una
 
 
 [^1]: DLPRIVATESERVER. El informe muestra cuántas personas juegan juegos en todo el mundo. [en línea]. *DLPRIVATESERVER*. [consulta: 14/05/2022]. Disponible en: https://dlprivateserver.com/el-informe-muestra-cuantas-personas-juegan-juegos-en-todo-el-mundo-spoiler-hay-muchos/#:~:text=Seg%C3%BAn%20el%20informe%20de%20DFC,m%C3%B3viles%20en%20paralelo%2C%20por%20ejemplo.
+
+[^2]:
