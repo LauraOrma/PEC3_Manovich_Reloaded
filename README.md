@@ -98,14 +98,24 @@ Just Dance se convierte así en una alternativa con muchas ventajas para los con
 - **Los beneficios de la danza**. La danza es una actividad beneficiosa en la que se ponen en prática muchas zonas diferente del cerebro. Ayuda al desarrollo cerebral, sirve para el desarrollo de la coordinación y para reducir el estrés. Está muy recomendada en cualquier etapa de la vida.
 - **Cooperativo**. Tiene una opción cooperativa presencialmente y en línea, lo que refuerza y potencia las habilidades sociales de los jóvenes adultos.
 
-Podemos observar, con estos puntos, que la saga Just Dance va mucho más allá que una saga de videojuegos. Este nuevo medio supone un nuevo género de videojuegos que combina el arte, la danza(actividad física y cultural), la animación y el diseño gráfico, con el concepto de gamificación y competición.
+Podemos observar, con estos puntos, que la saga Just Dance va mucho más allá que una saga de videojuegos. Este nuevo medio supone un nuevo género que combina el arte, la danza (actividad física y cultural), la animación y el diseño gráfico, con el concepto de gamificación y competición.
 
 
-###Bibliografía, webgrafía y recursos
+### Bibliografía, webgrafía y recursos gráficos
+
+- MANOVICH, Lev. *El Software toma el mando*. Barcelona: Editorial UOC (Edición en Castellano), 2013. ISBN: 978-84-9064-022-7.
+- ADELL, Ferran. (2014). Remediación, multimedia e hibridación de los medios [en línea]. *Fundamentos y evolución de la multimedia*, [consulta: 14/05/2022]. Disponible en: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/  
+- WIKIPEDIA. Hibridación de medios [en línea]. *WIKIPEDIA.ORG*. [consulta: 13/05/2020]. Disponible en: https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios
+- Markdown.es. Sintaxis MarkDown [en línea]. *MARKDOWN.ES*. [consulta: 13/05/2020, 15/05/2022]. Disponible en: https://markdown.es/sintaxis-markdown/
+- Screenshot of PONG from the Atari Arcade Hits #1 software title released Hasbro Interactive - a conversion of the original 1972 Atari Pong, Bumm13. Dominio Público. URL: https://es.wikipedia.org/wiki/Pong#/media/Archivo:Pong.png
+- Captura de Just Dance 2020. El País. URL: https://imagenes.elpais.com/resizer/pkZ1mERAz68NXUV2tDfBNW-zdZw=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/EQGA7J27RX6ZTJNNPODCT4HM6Q.jpg
+- Captura de Beyond Two Souls. Steam. URL: https://cdn.akamai.steamstatic.com/steam/apps/960990/ss_5da0bcf3be8205d656c271217ead8f0190bd5234.1920x1080.jpg?t=1625647937
+- Logotipo Beyond Two Souls. Steam. URL: https://cdn.akamai.steamstatic.com/steam/apps/960990/extras/logo.png?t=1625647937
+- ZAVALA, Sebastián. Beyond-Two-Souls-Review-Screenshot-Wallpaper-Choice-Menus [en línea]. *MASGAMERS*, 11-07-19 [consulta: 14/05/2022]. URL: https://www.masgamers.com/beyond-two-souls-review-screenshot-wallpaper-choice-menus
 
 
 
-[^1]: DLPRIVATESERVER. El informe muestra cuántas personas juegan juegos en todo el mundo. [en línea]. *DLPRIVATESERVER*. [consulta: 14/05/2022]. Disponible en: https://dlprivateserver.com/el-informe-muestra-cuantas-personas-juegan-juegos-en-todo-el-mundo-spoiler-hay-muchos/#:~:text=Seg%C3%BAn%20el%20informe%20de%20DFC,m%C3%B3viles%20en%20paralelo%2C%20por%20ejemplo.
+[^1]: DLPRIVATESERVER. *El informe muestra cuántas personas juegan juegos en todo el mundo.* [en línea]. *DLPRIVATESERVER*. [consulta: 14/05/2022]. Disponible en: https://dlprivateserver.com/el-informe-muestra-cuantas-personas-juegan-juegos-en-todo-el-mundo-spoiler-hay-muchos/#:~:text=Seg%C3%BAn%20el%20informe%20de%20DFC,m%C3%B3viles%20en%20paralelo%2C%20por%20ejemplo.
 
 [^2]: MANOVICH, Lev. *El Software toma el mando*. Barcelona: Editorial UOC (Edición en Castellano), 2013. ISBN: 978-84-9064-022-7.
 
