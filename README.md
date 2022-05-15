@@ -31,7 +31,7 @@ Por tanto, en la actualidad es complicado encontrar un videojuego que no se nutr
 ### Caso 1: *Beyond Two Souls* (2013)
 
 ![Beyond Two Souls](img/beyond-banner.png)
-|   |   |
+| FICHA TÉCNICA  |   |
 | -- | -- |
 | Género | **Aventura Gráfica** |
 | Desarrollador | **Quantic Dream** |
@@ -69,6 +69,27 @@ Como jugadora de Beyond Two Souls, este juego marcó un comienzo para mí en el 
 
 ### Caso 2: *Just Dance* (2009)
 
+![Banner Just Dance](img/justdance-banner.png)
+
+| FICHA TÉCNICA  |   |
+| -- | -- |
+| Género | **Música, danza** |
+| Desarrollador | **Ubisoft París** |
+| Plataformas | **Wii (inicialmente)** |
+| Distribuidor | **Ubisoft** |
+| Fecha de lanzamiento | **17 Noviembre 2009** |
+
+*Analizaremos el concepto en el que se basa toda la saga de Just Dance, aunque la ficha técnica se centra en el primer Just Dance que vio la luz.*
+
+Descripción: Just Dance es el videojuego de música más vendido de la historia. Es un juego basado en la danza que proporciona una experiencia de baile accesible y divertida con una premisa de gamificación: cuanto mejor imite el jugador los pasos de baile, más puntos ganará. Tiene opción de multijugador hasta cuatro personas.
+
+Los efectos visuales de los últimos juegos de Just Dance son un caso de hibridación en sí: las coreografías mezclan la imagen real con la animación y el diseño gráfico en post producción. Bailarines reales realizan los pasos de baile ante grandes paredes verdes que facilitarán, posteriormente, el proceso de añadir fondos 3d para crear escenarios totalmente increíbles.
+
+Por otro lado, los rasgos de los bailarines son practicamente imperceptibles, creando así un tipo de imagen más ***cartoon*** y gamberra que le da al videojuego su característico e inconfundible estilo.
+
+Una de las particulares de Just Dance que más me llama la atención, es que los mandos son esenciales para poder captar e interpretar los movimientos de brazos de los usuarios en la vida real. Actualmente, también se pueden utilizar las capturadoras de imagen de algunas consolas para detectar el móvimiento de los jugadores y poder compararlo con los movimientos que realizan los bailarines en el juego.
+
+Desde mi punto de vista, en Just Dance se produce una hibridación de medios muy interesante, que fusiona la interacción de los jugadores mediante una interfaz (videojuegos), los movimientos reales capturados por dispositivos inhalambricos pero físicos, la animación fusionada con la imagen real y, por supuesto, la música.
 
 
 
