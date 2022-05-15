@@ -95,6 +95,8 @@ Una de las particulares de Just Dance que más me llama la atención, es que los
 Desde mi punto de vista, en Just Dance se produce una hibridación de medios muy interesante, que fusiona la interacción de los jugadores mediante una interfaz (videojuegos), los movimientos reales capturados por dispositivos inhalambricos pero físicos, la animación fusionada con la imagen real y, por supuesto, la música.
 
 
+###Bibliografía, webgrafía y recursos
+
 
 
 [^1]: DLPRIVATESERVER. El informe muestra cuántas personas juegan juegos en todo el mundo. [en línea]. *DLPRIVATESERVER*. [consulta: 14/05/2022]. Disponible en: https://dlprivateserver.com/el-informe-muestra-cuantas-personas-juegan-juegos-en-todo-el-mundo-spoiler-hay-muchos/#:~:text=Seg%C3%BAn%20el%20informe%20de%20DFC,m%C3%B3viles%20en%20paralelo%2C%20por%20ejemplo.
