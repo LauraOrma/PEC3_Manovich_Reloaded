@@ -25,6 +25,13 @@ Por tanto, en la actualidad es complicado encontrar un videojuego que no se nutr
 
 ![Beyond Two Souls](img/beyond-banner.png)
 
+| Género | **Aventura Gráfica** |
+| Desarrollador | **Quantic Dream** |
+| Editor | **Quantic Dream** |
+| Distribuidor | **Quantic Dream** |
+| Fecha de lanzamiento | **17 Octubre 2013** |
+
+
 Sinopsis: Jodie (Elliot Page) tiene una misteriosa conexión con un extraño ente, Aiden, que posee increíbles poderes. Todas las acciones que tomes como jugador mientras se enfrenta a diferentes desafíos y aventuras, determinarán su historia.
 
 El actor Elliot Page da vida a Jodie, la protaginista de nuestra historia. En este videojuego, se mezcla la interacción del jugador (mediante teclado o mando) que será el que tenga en sus manos el destino de Jodie. Con grandes dosis de CGI e impresionantes gráficos, la inmersión de este videojuego es apabullante.
