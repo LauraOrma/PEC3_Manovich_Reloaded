@@ -65,4 +65,4 @@ Beyond Two Souls es una
 
 [^1]: DLPRIVATESERVER. El informe muestra cuántas personas juegan juegos en todo el mundo. [en línea]. *DLPRIVATESERVER*. [consulta: 14/05/2022]. Disponible en: https://dlprivateserver.com/el-informe-muestra-cuantas-personas-juegan-juegos-en-todo-el-mundo-spoiler-hay-muchos/#:~:text=Seg%C3%BAn%20el%20informe%20de%20DFC,m%C3%B3viles%20en%20paralelo%2C%20por%20ejemplo.
 
-[^2]:
+[^2]: MANOVICH, Lev. *El Software toma el mando*. Barcelona: Editorial UOC (Edición en Castellano), 2013. ISBN: 978-84-9064-022-7.
